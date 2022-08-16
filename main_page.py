@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 
 st.markdown("# Pulmonary Arterial Hypertension diagnostic system")
 st.image("images/Machine_learning.jpg")
